@@ -1,2 +1,5 @@
 # mrv-basicneed-ESX
-Tired of seeing people dying of hunger and thirst? Here is the solution:
+
+Replace this event for don't remove health when the player have 0 thirst or 0 hunger
+
+esx_status:onTick
